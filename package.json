@@ -8,6 +8,7 @@
     "build": "tsc && vite build",
     "preview": "vite preview",
     "test": "npx cypress open",
+    "test:run": "npx cypress run",
     "format": "prettier --write ."
   },
   "dependencies": {
