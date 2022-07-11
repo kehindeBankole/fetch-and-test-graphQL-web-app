@@ -1,0 +1,419 @@
+{
+  "data": {
+    "jobs": [
+      {
+        "slug": "senior-fullstack-engineer-platform",
+        "title": "Senior Fullstack Engineer - Platform",
+        "id": "cjz1ipl9x009a0758hg68h7vy",
+        "postedAt": "2019-08-12T20:19:52.000Z",
+        "tags": [
+          {
+            "name": "TypeScript",
+            "__typename": "Tag"
+          },
+          {
+            "name": "React",
+            "__typename": "Tag"
+          },
+          {
+            "name": "Full Stack",
+            "__typename": "Tag"
+          },
+          {
+            "name": "Go",
+            "__typename": "Tag"
+          },
+          {
+            "name": "AWS",
+            "__typename": "Tag"
+          },
+          {
+            "name": "Docker",
+            "__typename": "Tag"
+          },
+          {
+            "name": "Kafka",
+            "__typename": "Tag"
+          },
+          {
+            "name": "Senior",
+            "__typename": "Tag"
+          }
+        ],
+        "commitment": {
+          "title": "Full-time",
+          "__typename": "Commitment"
+        },
+        "company": {
+          "name": "Segment",
+          "slug": "segment",
+          "logoUrl": null,
+          "__typename": "Company"
+        },
+        "cities": [
+          {
+            "name": "San Francisco",
+            "id": "cjtu8et7j001a0824jwrtf4d1",
+            "__typename": "City"
+          }
+        ],
+        "countries": [],
+        "remotes": [],
+        "__typename": "Job"
+      },
+      {
+        "slug": "full-stack-javascript-developer",
+        "title": "Full Stack JavaScript Developer",
+        "id": "cjwt2a8j700by0793lnvon5c9",
+        "postedAt": "2019-08-12T12:58:28.000Z",
+        "tags": [
+          {
+            "name": "JavaScript",
+            "__typename": "Tag"
+          },
+          {
+            "name": "React",
+            "__typename": "Tag"
+          },
+          {
+            "name": "Full Stack",
+            "__typename": "Tag"
+          },
+          {
+            "name": "Redux",
+            "__typename": "Tag"
+          },
+          {
+            "name": "Serverless",
+            "__typename": "Tag"
+          },
+          {
+            "name": "Lambda",
+            "__typename": "Tag"
+          },
+          {
+            "name": "AWS",
+            "__typename": "Tag"
+          },
+          {
+            "name": "Angular",
+            "__typename": "Tag"
+          },
+          {
+            "name": "Vue",
+            "__typename": "Tag"
+          }
+        ],
+        "commitment": {
+          "title": "Full-time",
+          "__typename": "Commitment"
+        },
+        "company": {
+          "name": "Unrealists",
+          "slug": "unrealists",
+          "logoUrl": null,
+          "__typename": "Company"
+        },
+        "cities": [
+          {
+            "name": "Berlin",
+            "id": "cjuv51m3s00fc0735xosrvscp",
+            "__typename": "City"
+          }
+        ],
+        "countries": [],
+        "remotes": [
+          {
+            "type": "remote",
+            "__typename": "Remote"
+          }
+        ],
+        "__typename": "Job"
+      },
+      {
+        "slug": "ad01d326-5a60-48c8-8978-e14e67d361cd",
+        "title": "Senior Software Engineer, API Development",
+        "id": "cjw1yogu0007j079339al4zyu",
+        "postedAt": "2019-08-12T10:47:47.000Z",
+        "tags": [
+          {
+            "name": "TypeScript",
+            "__typename": "Tag"
+          },
+          {
+            "name": "Node.js",
+            "__typename": "Tag"
+          },
+          {
+            "name": "Redis",
+            "__typename": "Tag"
+          },
+          {
+            "name": "Docker",
+            "__typename": "Tag"
+          },
+          {
+            "name": "Jest",
+            "__typename": "Tag"
+          },
+          {
+            "name": "MySQL",
+            "__typename": "Tag"
+          },
+          {
+            "name": "Senior",
+            "__typename": "Tag"
+          }
+        ],
+        "commitment": {
+          "title": "Full-time",
+          "__typename": "Commitment"
+        },
+        "company": {
+          "name": "DeepCrawl",
+          "slug": "deepcrawl",
+          "logoUrl": "",
+          "__typename": "Company"
+        },
+        "cities": [
+          {
+            "name": "London",
+            "id": "cjuvb18ta016k0735v17ip42k",
+            "__typename": "City"
+          }
+        ],
+        "countries": [],
+        "remotes": [],
+        "__typename": "Job"
+      },
+      {
+        "slug": "experienced-backend-engineer-go",
+        "title": "Experienced Backend Engineer - Go",
+        "id": "cjwqsa7wj007d0778obv0dfs9",
+        "postedAt": "2019-06-10T19:42:57.834Z",
+        "tags": [
+          {
+            "name": "Backend",
+            "__typename": "Tag"
+          },
+          {
+            "name": "Go",
+            "__typename": "Tag"
+          },
+          {
+            "name": "Docker",
+            "__typename": "Tag"
+          },
+          {
+            "name": "Kubernetes",
+            "__typename": "Tag"
+          },
+          {
+            "name": "Webpack",
+            "__typename": "Tag"
+          }
+        ],
+        "commitment": {
+          "title": "Full-time",
+          "__typename": "Commitment"
+        },
+        "company": {
+          "name": "Theorem",
+          "slug": "theorem",
+          "logoUrl": null,
+          "__typename": "Company"
+        },
+        "cities": [],
+        "countries": [],
+        "remotes": [
+          {
+            "type": "remote",
+            "__typename": "Remote"
+          }
+        ],
+        "__typename": "Job"
+      },
+      {
+        "slug": "senior-software-engineer-frontend",
+        "title": "Senior Software Engineer - Frontend",
+        "id": "cjwnlolmk03hm0756mmvkw5d2",
+        "postedAt": "2019-06-08T14:14:52.677Z",
+        "tags": [
+          {
+            "name": "JavaScript",
+            "__typename": "Tag"
+          },
+          {
+            "name": "Frontend",
+            "__typename": "Tag"
+          }
+        ],
+        "commitment": {
+          "title": "Full-time",
+          "__typename": "Commitment"
+        },
+        "company": {
+          "name": "Close",
+          "slug": "close",
+          "logoUrl": "",
+          "__typename": "Company"
+        },
+        "cities": [],
+        "countries": [],
+        "remotes": [
+          {
+            "type": "remote",
+            "__typename": "Remote"
+          }
+        ],
+        "__typename": "Job"
+      },
+      {
+        "slug": "senior-software-engineer-backend",
+        "title": "Senior Software Engineer - Backend",
+        "id": "cjwnlegxb03dv0756ysmiqd0y",
+        "postedAt": "2019-06-08T14:06:59.140Z",
+        "tags": [
+          {
+            "name": "Backend",
+            "__typename": "Tag"
+          },
+          {
+            "name": "Python",
+            "__typename": "Tag"
+          }
+        ],
+        "commitment": {
+          "title": "Full-time",
+          "__typename": "Commitment"
+        },
+        "company": {
+          "name": "Close",
+          "slug": "close",
+          "logoUrl": "",
+          "__typename": "Company"
+        },
+        "cities": [],
+        "countries": [],
+        "remotes": [
+          {
+            "type": "remote",
+            "__typename": "Remote"
+          }
+        ],
+        "__typename": "Job"
+      },
+      {
+        "slug": "full-stack-javascript-developer",
+        "title": "Full Stack Javascript Developer",
+        "id": "cjwnkzzh003bh0756hc34rui5",
+        "postedAt": "2019-06-08T13:55:43.865Z",
+        "tags": [
+          {
+            "name": "TypeScript",
+            "__typename": "Tag"
+          },
+          {
+            "name": "Apollo",
+            "__typename": "Tag"
+          },
+          {
+            "name": "Full Stack",
+            "__typename": "Tag"
+          },
+          {
+            "name": "AWS",
+            "__typename": "Tag"
+          },
+          {
+            "name": "Jest",
+            "__typename": "Tag"
+          },
+          {
+            "name": "Postgraphile",
+            "__typename": "Tag"
+          },
+          {
+            "name": "Firestore",
+            "__typename": "Tag"
+          },
+          {
+            "name": "Cypress.io",
+            "__typename": "Tag"
+          },
+          {
+            "name": "Flutter",
+            "__typename": "Tag"
+          },
+          {
+            "name": "CircleCI",
+            "__typename": "Tag"
+          }
+        ],
+        "commitment": {
+          "title": "Full-time",
+          "__typename": "Commitment"
+        },
+        "company": {
+          "name": "AddJust",
+          "slug": "addjust",
+          "logoUrl": "https://cdn.filestackcontent.com/ARVNFDkIFTCy2nOXvYSoLz/output=secure:true/security=policy:eyJleHBpcnkiOiAxNTYwMDA1ODc3LCAiY2FsbCI6IFsicmVhZCIsICJzdGF0IiwgImNvbnZlcnQiLCAicGljayIsICJzdG9yZSJdfQ==,signature:785f90b4223269777911185d2416e87cae7cf7364883b028d282f088046c1cf9/PJD7vCBRDO0sbiLs0vIQ",
+          "__typename": "Company"
+        },
+        "cities": [],
+        "countries": [],
+        "remotes": [
+          {
+            "type": "remote",
+            "__typename": "Remote"
+          }
+        ],
+        "__typename": "Job"
+      },
+      {
+        "slug": "deep-learning-engineer",
+        "title": "Deep Learning Engineer",
+        "id": "cjvnpsy2900ed0704atnvb6r9",
+        "postedAt": "2019-05-14T11:30:31.559Z",
+        "tags": [
+          {
+            "name": "Python",
+            "__typename": "Tag"
+          },
+          {
+            "name": "Full Stack",
+            "__typename": "Tag"
+          },
+          {
+            "name": "Tensorflow",
+            "__typename": "Tag"
+          },
+          {
+            "name": "Google Cloud Platform",
+            "__typename": "Tag"
+          }
+        ],
+        "commitment": {
+          "title": "Full-time",
+          "__typename": "Commitment"
+        },
+        "company": {
+          "name": "Stockwell",
+          "slug": "stockwell",
+          "logoUrl": null,
+          "__typename": "Company"
+        },
+        "cities": [
+          {
+            "name": "Oakland",
+            "id": "cjvnpmp5800bv0704i74n3rbo",
+            "__typename": "City"
+          }
+        ],
+        "countries": [],
+        "remotes": [],
+        "__typename": "Job"
+      }
+    ]
+  }
+}
