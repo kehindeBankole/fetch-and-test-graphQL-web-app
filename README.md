@@ -1,4 +1,6 @@
-# Kehinde helicarrier test Web Application
+## To start 
+1) yarn 
+2) yarn dev
 
 ---
 
