@@ -56,7 +56,8 @@ function Home() {
                     onClick={() => setFilterTag(tag.toLowerCase())}
                     data-test-id="tag-box"
                   >
-                    {tag}
+                   <span>{tag}</span>
+                   <span className="sr-only">{tag}</span>
                   </button>
                 ))}
               </div>
