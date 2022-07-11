@@ -51,13 +51,13 @@ function Home() {
               <div className="flex space-x-4">
                 {TAGS?.map((tag, index) => (
                   <button
-                    className="bg-red-500 grid place-items-center p-4 rounded-md"
+                    className="bg-red-500 grid place-items-center p-4 rounded-md w-full"
                     key={index}
                     onClick={() => setFilterTag(tag.toLowerCase())}
                     data-test-id="tag-box"
                   >
                    <span>{tag}</span>
-                   <span className="sr-only">{tag}</span>
+                   <span className="sr-only relative">{tag}</span>
                   </button>
                 ))}
               </div>
